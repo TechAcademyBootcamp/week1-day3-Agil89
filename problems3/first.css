@@ -1,0 +1,45 @@
+body{
+    
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+div{
+    width:25%;
+    border:3px solid grey;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    
+}
+#image{
+    width:100%;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    
+}
+h3{
+    margin: 0px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+    color: black;
+   
+}
+p{
+    text-align: justify;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+   
+
+}
+button{
+    margin: 0px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+    width: 50%;
+    color: white;
+    background-color:rgb(87, 87, 224);
+    border-radius: 12px;
+}
+    
+#click{
+    margin: 10px 0px 15px 0px;
+    padding: 0px 0px 0px 0px;
+}

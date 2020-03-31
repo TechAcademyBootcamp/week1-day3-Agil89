@@ -1,0 +1,42 @@
+#navbar{
+    color: rgb(19, 19, 19);
+    text-decoration: none;
+    float: left;
+    margin:0px 10px;
+}
+#home{
+    color: rgb(61, 61, 61);
+    text-decoration: none;
+    float: left;
+    margin:0px 10px;
+}
+#link{
+    color: rgb(114, 114, 114);
+    text-decoration: none;
+    float: left;
+    margin:0px 10px;
+}
+#dropdown{
+    color: rgb(167, 167, 167);
+    text-decoration: none;
+    float: left;
+    margin:0px 10px;
+}
+#disabled{
+    color: rgb(202, 201, 201);
+    text-decoration: none;
+    float: left;
+    margin:0px 550px 0px 0px;
+}
+
+input{
+    float: left;
+    margin:0px 5px 0px 0px;
+}
+button{
+    border-radius: 6px;
+    height: 27px;
+    border-color:rgb(37, 202, 37) ;
+    color:rgb(37, 202, 37);
+    float: left;
+}

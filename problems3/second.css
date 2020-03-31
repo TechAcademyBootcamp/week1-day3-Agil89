@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+label{
+    display: block;
+}
+.row{
+    width: 100%;
+    display: flex;
+}
+
+.em{
+    width: 50%;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 0px;
+}
+.ps{
+    width: 50%;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.add{
+    width: 100%;
+    clear: both;
+}
+.add2{
+    width: 100%;
+}
+.city{
+    padding: 0px 10px 0px 0px;
+    width: 50%;
+    float: left;
+}
+.state{
+    padding: 0px 10px 0px 0px;
+    width: 30%;
+    float: left;
+}
+select{
+    width: 100%;
+}
+.zip{
+    width: 20%;
+    float: left;
+}
+
+input{
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+}
+#name{
+    width: 0%;
+}
+.che{
+    display: inline;
+}
+button{
+    color: white;
+    background-color: rgb(70, 70, 190);
+    border-radius: 12px;
+    width: 80px;
+    height: 40px;
+}
